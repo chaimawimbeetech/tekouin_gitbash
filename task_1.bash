@@ -1,1 +1,3 @@
-ln -s ls /bin/ls/__ls__
+$ pwd
+/bin/ls
+$ ln -s ls /usr/bin/__ls__
