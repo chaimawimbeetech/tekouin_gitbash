@@ -1,0 +1,1 @@
+ln -s ls /bin/ls/__ls__
